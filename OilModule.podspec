@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "OilModule"
-  s.version      = "1.0.0"
+  s.version      = "1.0.3"
   s.summary      = "加油功能的组件调试阶段，暂时尝试私有库的制作."
   s.description  = <<-DESC
             加油功能的组件化，主要是提供加油功能的组件化。本次主要初步组件化拆分。
